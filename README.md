@@ -1,3 +1,3 @@
 # HackatonApp
 
-2 osobowa praca
+Aplikacja została utworzona w celu ułatwienia zapisów drużyn do hackatonu.
